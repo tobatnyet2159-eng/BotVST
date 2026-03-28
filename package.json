@@ -1,0 +1,16 @@
+{
+  "name": "vstbot-wa-supreme",
+  "version": "1.1.0",
+  "description": "VSTBOT Official - The Silent Assassin WA Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.x",
+    "pino": "^8.x",
+    "qrcode-terminal": "^0.x",
+    "moment-timezone": "^0.5.x",
+    "fs": "0.0.1-security"
+  }
+}
